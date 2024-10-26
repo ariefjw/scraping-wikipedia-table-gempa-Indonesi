@@ -1,0 +1,1 @@
+# scraping-wikipedia-table-gempa-Indonesi
